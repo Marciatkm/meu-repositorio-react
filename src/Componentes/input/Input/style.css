@@ -61,3 +61,12 @@ p {
     text-align: center;
     
 }
+footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    background-color: #070707ed;
+}
+.s2 {
+    color: rgb(196, 26, 26);
+}
